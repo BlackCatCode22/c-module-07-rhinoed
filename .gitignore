@@ -1,0 +1,51 @@
+# General build artifacts
+/build/
+/bin/
+/obj/
+/*.o
+**/*.obj
+/*.exe
+/*.out
+/*.log
+/*.a
+/*.so
+/*.dylib
+/*.dll
+/*.pdb
+
+# Editor/IDE specific
+*/.idea
+.idea/                     # CLion's project files
+*.iml                      # CLion's module files
+*.swp                      # Temporary editor swap files
+.DS_Store                  # macOS specific
+
+# Xcode specific
+*.xcuserdata/
+*.xcworkspace/
+*.xcodeproj/
+*.mode1v3
+*.pbxuser
+
+# CMake build system
+CMakeFiles/
+cmake-build-debug/
+*/CMakeLists.txt
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+cmake-build-debug/*
+# Debugging
+*.dSYM/                    # Debugging symbols on macOS
+
+# Generated files by compilers or IDEs
+*.ipch
+*.pch
+*.gch                      # Precompiled headers
+*.lprof                    # Code coverage data
+
+# Other
+*.tmp
+*.temp
+*.bak                      # Backup files
+*.~*                       # Temporary files ending with ~
