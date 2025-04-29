@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\cmake-build-debug-visual-studio",
+    "\\cmake-build-debug-visual-studio\\CMakeFiles",
+    "\\cmake-build-debug-visual-studio\\CMakeFiles\\3.31.6",
+    "\\cmake-build-debug-visual-studio\\CMakeFiles\\3.31.6\\CompilerIdC",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\src\\app\\App.cpp",
+  "PreviewInSolutionExplorer": false
+}

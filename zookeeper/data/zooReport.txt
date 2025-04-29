@@ -1,0 +1,34 @@
+*******************************
+********* Zoo Report **********
+*******************************
+
+
+
+Hyena Enclosure (4):
+
+Hy01; Bud; 4; tan color; Tunisia; 2021-03-21
+Hy02; Banzai; 12; brown color; Tunisia; 2013-09-21
+Hy03; Nne; 4; black color; Tunisia; 2021-03-21
+Hy04; Kamari; 8; black and tan striped color; Tunisia; 2017-01-01
+
+Lion Enclosure (4):
+
+Li01; King; 6; tan color; Tanzania; 2019-03-21
+Li02; Mufasa; 12; dark tan color; Tanzania; 2013-12-21
+Li03; Cecil; 22; golden color; Tanzania; 2003-09-21
+Li04; Scar; 4; tan and brown color; Tanzania; 2021-03-21
+
+Tiger Enclosure (4):
+
+Ti01; Amber; 2; gold and tan stripes color; Bangladesh; 2023-03-21
+Ti02; Rajah; 4; black stripes color; Bangladesh; 2021-03-21
+Ti03; Ryker; 18; gold and tan color; Nepal; 2007-09-21
+Ti04; Jiba; 3; black stripes color; Nepal; 2022-03-21
+
+Bear Enclosure (4):
+
+Be01; Winnie the Pooh; 7; brown color; Alaska; 2018-03-21
+Be02; Bert; 25; black color; Washington; 2000-03-21
+Be03; Bungle; 4; black color; Washington; 2021-09-21
+Be04; Rupert; 4; brown color; Alaska; 2021-03-21
+
